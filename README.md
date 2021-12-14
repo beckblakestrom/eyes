@@ -1,2 +1,0 @@
-# eyes
- eyes exercise MIT
